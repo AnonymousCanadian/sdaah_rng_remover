@@ -1,11 +1,11 @@
 title: Cabinet
 is-pinned-card: true
 tags: advisor
-card-image: img/poster_3.jpg
+card-image: img/Vorwaerts_nr_1.png
 on-arrival: last_advisor_action = 1
 new-page: true 
 
-= rng_remover
+= Rng Remover
 
 With the RNG remover, we can direct the affairs of our party.
 
