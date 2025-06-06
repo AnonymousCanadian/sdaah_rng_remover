@@ -1,0 +1,17 @@
+title: Cabinet
+is-pinned-card: true
+tags: advisor
+card-image: img/muller_cabinet.jpg
+on-arrival: last_advisor_action = 1
+new-page: true 
+
+= rng_remover
+
+With the RNG remover, we can direct the affairs of our party.
+
+- #rng_remover
+- @back: Return to main
+
+@back
+on-arrival: last_advisor_action = 0
+go-to: root
