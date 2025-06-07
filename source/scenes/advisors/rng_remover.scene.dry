@@ -5,7 +5,7 @@ card-image: img/Vorwaerts_nr_1.png
 on-arrival: last_advisor_action = 1
 new-page: true 
 
-= Rng Remover
+= RNG Remover
 
 With the RNG remover, we can more easily control the affairs of our party.
 
