@@ -28,6 +28,8 @@ Something must be done to reinforce party unity.
 - @concessions_labor
 - @concessions_neorevisionists
 - @do_nothing
+- @easy_discard
+- @cancel_advisor_action
 
 
 @enforce_unity
