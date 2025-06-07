@@ -9,7 +9,7 @@ new-page: true
 
 With the RNG remover, we can more easily control the affairs of our party.
 
-- #cabinet
+- #rng_actions
 - @back: Return to main
 
 @back
