@@ -117,6 +117,7 @@ Current tariff level: [+ tariffs : taxation +]
 - @fiscal_menu: Change domestic taxes instead of tariffs.
 - @root: Do not change tariffs or taxes.
 - @easy_discard
+- @cancel_advisor_action
 
 @raise_tariffs
 title: Raise tariffs on imports.
