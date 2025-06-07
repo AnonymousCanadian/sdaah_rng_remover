@@ -7,9 +7,9 @@ new-page: true
 
 = RNG Remover
 
-With the RNG remover, we can more easily control the affairs of our party.
+With the RNG remover, we can more easily control party affairs.
 
-- #rng_actions
+- #party_affairs
 - @back: Return to main
 
 @back
